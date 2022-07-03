@@ -4,6 +4,7 @@
 
 ## Built With
 
+- ol (orderd list)
 - `ul` (unorderd list )
 - `a` (this is used to link an externl wepsite with pages)
 - `link` (this is used to link an internal link with pages)
