@@ -1,21 +1,27 @@
 # RECIPES
-> This project list recipes and how they can be cooked
+
+> This project list some recipes and how they can be cooked
+
 ## Built With
 
-- `ul` ( unorderd list to represent my numbering with bullet)
-- `a` ( to link an externl wepsite with pages)
-- `link` (to link internal link)
+- `ul` (unorderd list )
+- `a` (this is used to link an externl wepsite with pages)
+- `link` (this is used to link an internal link with pages)
+- `p` (this is used to write about something or for description)
+- `h1`(this is used to write an heading for a topic or just heading writting)
+- `h2` (this is like a heading but not bold more than the `h1`)
+- `img` (this is used to link image with pages)
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://theodin-recipes-assigment.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/abdulsomod1/fcc_tribute_page/pulls
+git clone https://github.com/abdulsomod1/theodin-recipes-assigment
 
 ```
 
@@ -77,9 +83,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- w3 school
-- boss,boss
-- etc
+- google
 
 ## 📝 License
 
